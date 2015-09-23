@@ -1,6 +1,9 @@
 # CoCaBu
 Source code will be available soon.
 
+# Input
+## GitHub
+## Stack Overflow
 
 # Datasets
 To read/inspect the following indices you may use [Luke](https://github.com/DmitryKey/luke/releases/download/luke-4.10.4-field-reconstruction/luke-with-deps.jar). Luke allows to access, browse and display documents within an existing Lucene index.
