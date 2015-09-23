@@ -18,8 +18,8 @@ The following table illustrates the primary fields used to:
 | extends                    | Direct superclass and implemented interfaces  |
 | class_instance_creation    | Class instance creations                      |
 
-## Code & Snippet Index
+##  Download Indices
 
-Download [Snippet Index](https://docs.google.com/uc?export=download&id=0BziVDm-Qdq5tR3dUUUx1QklCUGM)
+[Snippet Index](https://docs.google.com/uc?export=download&id=0BziVDm-Qdq5tR3dUUUx1QklCUGM)
 
-Download [Code Index](https://docs.google.com/uc?export=download&id=0BziVDm-Qdq5tUHVnbUsyblY0emM)
+[Code Index](https://docs.google.com/uc?export=download&id=0BziVDm-Qdq5tUHVnbUsyblY0emM)
