@@ -3,7 +3,7 @@ Source code will be available soon.
 
 
 # Datasets
-To read/inspect the following indices you may use [Luke](https://docs.google.com/uc?export=download&id=0BziVDm-Qdq5tUHVnbUsyblY0emM). Luke allows to access, browse and display documents within an existing Lucene index.
+To read/inspect the following indices you may use [Luke](https://github.com/DmitryKey/luke/releases/download/luke-4.10.4-field-reconstruction/luke-with-deps.jar). Luke allows to access, browse and display documents within an existing Lucene index.
 ## Fields
 
 The following table illustrates the primary fields used to:
