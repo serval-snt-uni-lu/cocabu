@@ -8,7 +8,7 @@ To read/inspect the following indices you may use [Luke](https://docs.google.com
 
 The following table illustrates the primary fields used to :
 | Field                      | Value                                         |
-| -------------------------- |:---------------------------------------------:|
+| -------------------------- |----------------------------------------------:|
 | typed_method_call          | Partially qualified method invocations        |
 | methods                    | Method Declarations                           |
 | used_classes               | Name of used classes                          |
