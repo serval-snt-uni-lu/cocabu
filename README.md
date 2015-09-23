@@ -6,9 +6,10 @@ Source code will be available soon.
 To read/inspect the following indices you may use [Luke](https://docs.google.com/uc?export=download&id=0BziVDm-Qdq5tUHVnbUsyblY0emM). Luke allows to access, browse and display documents within an existing Lucene index.
 ## Fields
 
-The following table illustrates the primary fields used to :
+The following table illustrates the primary fields used to:
+
 | Field                      | Value                                         |
-| -------------------------- |----------------------------------------------:|
+| -------------------------- |---------------------------------------------- |
 | typed_method_call          | Partially qualified method invocations        |
 | methods                    | Method Declarations                           |
 | used_classes               | Name of used classes                          |
