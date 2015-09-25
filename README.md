@@ -5,7 +5,7 @@ Source code will be available soon.
 
 To build the **Snippet Index**, we used the data dump of Stack Overflow posts ([StackExchange](https://archive.org/details/stackexchange)) between July 2008 and March 2015 containing 1,363,002 Java and Android tagged questions.
 
-For the **Code Index**, we considered GitHub projects that are forked at least once (to avoid toy and/or inactive projects) and in which major language is “Java” and then removed all non-Java files.
+To build the **Code Index**, we considered GitHub projects that are forked at least once (to avoid toy and/or inactive projects) and in which the major language is “Java” and removed all non-Java files.
 
 
 # Datasets
