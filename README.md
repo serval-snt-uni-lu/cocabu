@@ -31,3 +31,7 @@ The following table illustrates the primary fields used to construct an augmente
 [Snippet Index](https://docs.google.com/uc?export=download&id=0BziVDm-Qdq5tR3dUUUx1QklCUGM)
 
 [Code Index](https://docs.google.com/uc?export=download&id=0BziVDm-Qdq5tUHVnbUsyblY0emM)
+
+## Evaluation data
+
+[Search results into the Wild](https://docs.google.com/spreadsheets/d/1lF6IqSGJfHSJ2W2PnwpbNm40AZdK9dhvlPRC5Wz2clA/edit#gid=0)
